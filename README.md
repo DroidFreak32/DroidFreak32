@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><strong>I stalk people here.</strong></p>
+<p align="center"><strong>I stalk & kang people here.</strong></p>
 
 <p align="center"><img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="100"></p>
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=DroidFreak32&style=flat-round" />
