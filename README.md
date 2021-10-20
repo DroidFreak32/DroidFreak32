@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 <p align="center"><strong>I stalk people here.</strong></p>
 
 <p align="center"><img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="100"></p>
+<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=DroidFreak32&style=flat-round" />
+
 <p align='center'>
   <a
 href="#"><img src="https://github-readme-stats.vercel.app/api?username=DroidFreak32&count_private=true&include_all_commits=true&show_icons=true&theme=radical" width="350"></a>
